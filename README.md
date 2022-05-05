@@ -36,7 +36,13 @@ Creating and using DAX measures for powerful insights
 
 Creating theme in JSON file
 
+# Tools Used
+
 Figma
+
+Microsft Power BI 
+
+Power Query
 
 # DELIVERABLES
 
