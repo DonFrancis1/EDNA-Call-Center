@@ -1,5 +1,5 @@
 # EDNA-Call-Center
-
+https://app.powerbi.com/view?r=eyJrIjoiYzQ3MDIyNDMtMWVjZi00ZDMzLWIzOWYtOWNjMGUxZWE3MGRjIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9&pageName=ReportSection5677ac29c2135fab5068
 # The Brief
 
 Congratulations to our Power BI Team , your excellent work has been rewarded with a new contract!!
