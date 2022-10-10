@@ -1,6 +1,6 @@
 # EDNA-Call-Center
 https://app.powerbi.com/view?r=eyJrIjoiYzQ3MDIyNDMtMWVjZi00ZDMzLWIzOWYtOWNjMGUxZWE3MGRjIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9&pageName=ReportSection5677ac29c2135fab5068
-# The Brief
+## The Brief
 
 Congratulations to our Power BI Team , your excellent work has been rewarded with a new contract!!
 
@@ -20,9 +20,9 @@ Delete a column in the Calls data files named “Call Abandoned”
 
 Create a new column in the Calls data files, name it “SLA Compliance” This column includes a logical statement wherein Calls “Waittime” is less than 35 seconds . Column results must be “Within SLA” or “Outside SLA”
 
-# The Process 
+## The Process 
 
-# Techniques:
+## Techniques:
 
 Data Loading (ETL)
 
@@ -36,7 +36,7 @@ Creating and using DAX measures for powerful insights
 
 Creating theme in JSON file
 
-# Tools Used
+## Tools Used
 
 Figma
 
@@ -44,7 +44,7 @@ Microsft Power BI
 
 Power Query
 
-# DELIVERABLES
+## DELIVERABLES
 
 Interacative dashboard showing employees performace, Cost Implication(Revenue), SLA Compliance, Call Type and Call Site Analysis.
 
