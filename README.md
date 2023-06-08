@@ -1,5 +1,8 @@
 # EDNA-Call-Center
 https://app.powerbi.com/view?r=eyJrIjoiYzQ3MDIyNDMtMWVjZi00ZDMzLWIzOWYtOWNjMGUxZWE3MGRjIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9&pageName=ReportSection5677ac29c2135fab5068
+
+<img width="708" alt="call" src="https://github.com/DonFrancis1/EDNA-Call-Center/assets/88105784/d3daf9a2-690c-495a-aa4a-5d6f5e0e7902">
+
 ## The Brief
 
 Congratulations to our Power BI Team , your excellent work has been rewarded with a new contract!!
